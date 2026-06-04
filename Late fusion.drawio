@@ -1662,6 +1662,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="VcjO6TvptG4F1vcKxg4g-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Q=aux,&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;K=V=ref&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="630" y="-435" as="geometry" />
+        </mxCell>
+        <mxCell id="VcjO6TvptG4F1vcKxg4g-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Q=ref,&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;K=V=aux&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="320" y="-435" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
