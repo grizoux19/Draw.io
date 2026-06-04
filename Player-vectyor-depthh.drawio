@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="SWo5t1_3f54jD7h-zzVD">
-    <mxGraphModel dx="1178" dy="626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="518" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,7 +72,7 @@
             <mxRectangle height="50" width="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uRWzF18VqmQ_La7wOpSF-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;fontColor=#ffffff;strokeColor=#000000;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Z&lt;/font&gt;" vertex="1">
+        <mxCell id="uRWzF18VqmQ_La7wOpSF-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;fontColor=#ffffff;strokeColor=#000000;" value="&lt;font color=&quot;#000000&quot;&gt;\(\bar{\text{Z}}\)&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="50" x="691" y="349" as="geometry" />
         </mxCell>
         <mxCell id="uRWzF18VqmQ_La7wOpSF-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="FC" vertex="1">
